@@ -1,0 +1,8 @@
+Chanakya Varude
+Azeem Motiwala
+Aditya Kumar
+Sahil Dharod
+
+Movie recommender system
+
+dataset: https://drive.google.com/drive/folders/1OZQMnEniVKClrBYNL97e2JWfTtf32cy-?usp=sharing
